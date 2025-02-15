@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 
-FOOTER: process.env.FOOTER || "*◆─〈 ✦𝐃𝐢𝐝𝐮𝐥𝐚 𝐌𝐃 𝐕𝟐✦ 〉─◆*",
+FOOTER: process.env.FOOTER || "*◆─〈 ✦LASITH-Max 𝐕𝟐✦ 〉─◆*",
 ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/tC37Q7B/20241220-122443.jpg",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
 MODE: process.env.MODE || "public",
@@ -22,7 +22,7 @@ ANTI_CALL: process.env.ANTI_CALL || "false",
 
 
 
-SESSION_ID: process.env.SESSION_ID || "",
+SESSION_ID: process.env.SESSION_ID || "PRABATH-MD~6BFmAAAD#rzBAQd9QbQWyH-u5S6ax3DzeTZvYJ9u-SlUKRwKgOyY",
 
 
 
